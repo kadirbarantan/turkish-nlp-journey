@@ -16,3 +16,8 @@
                     	• Örnek (Kelime): ["elma armut", "armut portakal"]
 
 **NLP Vocabulary**:Bir dil modelinin işleyebileceği,işleme sokabileceği kelime dağarcığı,kümesi.
+**Stopwords**:Text içerisinde bulunan bağlaçlar ve edatlardır.Cümleden çıkarılmaları gerekir temiz bir işlem yapmak için.
+**Lemmatization**:Kelimeyi köküne indirerek işlem yapacak kök dizini sağlamak.
+**Stemming**:Kelimenin aldığı ekleri kaba bir şekilde keserek kök dizinine ayırma.Lemma daha detaylı ve titiz çalışır.
+**Eklemeli Dil**
+**Morfoloji**:Dili inceleyen bilim dalı.
