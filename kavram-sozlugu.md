@@ -21,3 +21,6 @@
 **Stemming**:Kelimenin aldığı ekleri kaba bir şekilde keserek kök dizinine ayırma.Lemma daha detaylı ve titiz çalışır.
 **Eklemeli Dil**
 **Morfoloji**:Dili inceleyen bilim dalı.
+**Bag of Words**:Kelimeleri bilgisayarın anlayacağı sayısal değerlere çeviren en temel vektörizasyon modeli.
+**Document-term Matrix**:Bir veri koleksiyonundaki kelimlerin belge içerisinde geçme sıklıklarını matematiksel bir tablo olarak gösterir.
+**Sparse (seyrek) matris**:Elemanlarının çok büyük çoğunluğu  değerine sahip olan matrislerdir.
