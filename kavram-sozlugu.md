@@ -24,3 +24,7 @@
 **Bag of Words**:Kelimeleri bilgisayarın anlayacağı sayısal değerlere çeviren en temel vektörizasyon modeli.
 **Document-term Matrix**:Bir veri koleksiyonundaki kelimlerin belge içerisinde geçme sıklıklarını matematiksel bir tablo olarak gösterir.
 **Sparse (seyrek) matris**:Elemanlarının çok büyük çoğunluğu  değerine sahip olan matrislerdir.
+**Supervised Learning**:Etiketli veri üzerinden makinenin öğrenerek bir sonraki tahmini yapması.
+**Unsupervised Learning**:Etiketlenmemiş veri üzerinden öğrenip örüntü oluşturarak,bularak tahmin yapma
+**Train-test split**:Verinin bir kısmını test için bir kısmınınında eğitim için kullanılarak normal öğrenime karşın doğruluk oranlarını  arttırmayı hedefler.
+**Overfitting**:Eğitime ayrılan verinin çok fazla olması durumu ile makinenin testte kullandığı veri sonucunun ezbere dayalı olarak gelmesi durumu.
