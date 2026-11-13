@@ -28,3 +28,5 @@
 **Unsupervised Learning**:Etiketlenmemiş veri üzerinden öğrenip örüntü oluşturarak,bularak tahmin yapma
 **Train-test split**:Verinin bir kısmını test için bir kısmınınında eğitim için kullanılarak normal öğrenime karşın doğruluk oranlarını  arttırmayı hedefler.
 **Overfitting**:Eğitime ayrılan verinin çok fazla olması durumu ile makinenin testte kullandığı veri sonucunun ezbere dayalı olarak gelmesi durumu.
+**Bayes Teoremi**:Yeni bir bilgi veya kanıt elde edildiğinde, bir olayın gerçekleşme olasılığının nasıl güncelleneceğini hesaplamaya yarayan temel bir koşullu olasılık kuralıdır.
+**Naive Bayes**:Bayes Teoremi'ne dayanan,verileri kategorilere ayırmak 
